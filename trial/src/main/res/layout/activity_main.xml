@@ -27,7 +27,7 @@
         android:id="@+id/button"
         android:layout_width="0dp"
         android:layout_height="55dp"
-        android:layout_marginEnd="16dp"
+        android:layout_marginEnd="28dp"
         android:onClick="sendMessage"
         android:text="Button"
         app:layout_constraintBaseline_toBaselineOf="@+id/editText2"
